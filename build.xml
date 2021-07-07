@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project default="clean" basedir="." name="formtag-extension">
-	<description>
+    <description>
         Build Form Extension
     </description>
     <!-- set global properties for this build -->
